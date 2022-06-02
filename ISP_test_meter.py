@@ -8,7 +8,7 @@ root=Tk()
 root.title("Internet Speed Tester")
 root.geometry("350x300")
 root.resizable(False,False)
-root.iconbitmap("Speedtest_41127.ico")
+root.iconbitmap("Speedtest.ico")
 
 
 
